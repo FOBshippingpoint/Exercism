@@ -1,0 +1,27 @@
+{
+  "authors": [
+    "dnmfarrell"
+  ],
+  "contributors": [
+    "alexkalderimis",
+    "kotp",
+    "kytrinyx",
+    "m-dango",
+    "pgraemer",
+    "yanick"
+  ],
+  "files": {
+    "solution": [
+      "Leap.rakumod"
+    ],
+    "test": [
+      "leap.rakutest"
+    ],
+    "example": [
+      ".meta/solutions/standard/Leap.rakumod"
+    ]
+  },
+  "blurb": "Given a year, report if it is a leap year.",
+  "source": "CodeRanch Cattle Drive, Assignment 3",
+  "source_url": "https://coderanch.com/t/718816/Leap"
+}

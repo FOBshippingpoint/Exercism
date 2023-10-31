@@ -1,0 +1,19 @@
+{
+  "authors": [
+    "m-dango"
+  ],
+  "files": {
+    "solution": [
+      "Pangram.rakumod"
+    ],
+    "test": [
+      "pangram.rakutest"
+    ],
+    "example": [
+      ".meta/solutions/Pangram.rakumod"
+    ]
+  },
+  "blurb": "Determine if a sentence is a pangram.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Pangram"
+}
